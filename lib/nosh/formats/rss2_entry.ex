@@ -9,7 +9,7 @@ defmodule Nosh.Formats.Rss2Entry do
 
     element :description, as: :summary
     element :language
-    element :lastBuildDate, as: :last_built
+    element :lastBuildDate, as: :last_built, cast: &Nosh.Casting.parse_rfc_822/1
 
     element :"content:encoded", as: :content
     element :"a10:content", as: :content
@@ -23,15 +23,15 @@ defmodule Nosh.Formats.Rss2Entry do
     element :"dc:creator", as: :author
     element :"a10:name", as: :author
 
-    element :pubDate, as: :published
-    element :pubdate, as: :published
-    element :issued, as: :published
-    element :"dc:date", as: :published
-    element :"dc:Date", as: :published
-    element :"dcterms:created", as: :published
+    element :pubDate, as: :published, cast: &Nosh.Casting.parse_rfc_822/1
+    element :pubdate, as: :published, cast: &Nosh.Casting.parse_rfc_822/1
+    element :issued, as: :published, cast: &Nosh.Casting.parse_rfc_822/1
+    element :"dc:date", as: :published, cast: &Nosh.Casting.parse_rfc_822/1
+    element :"dc:Date", as: :published, cast: &Nosh.Casting.parse_rfc_822/1
+    element :"dcterms:created", as: :published, cast: &Nosh.Casting.parse_rfc_822/1
 
-    element :"dcterms:modified", as: :updated
-    element :"a10:updated", as: :updated
+    element :"dcterms:modified", as: :updated, cast: &Nosh.Casting.parse_rfc_822/1
+    element :"a10:updated", as: :updated, cast: &Nosh.Casting.parse_rfc_822/1
 
     # element :guid, as: :entry_id, class: Feedjira::Parser::GloballyUniqueIdentifier
     element :"dc:identifier", as: :dc_identifier

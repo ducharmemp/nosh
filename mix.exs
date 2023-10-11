@@ -22,7 +22,8 @@ defmodule Nosh.MixProject do
   defp deps do
     [
       {:saxaboom, "~> 0.1.1"},
-      {:saxy, "~> 1.5"}
+      {:saxy, "~> 1.5"},
+      {:timex, "~> 3.7"}
     ]
   end
 end
