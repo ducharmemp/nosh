@@ -21,7 +21,7 @@ defmodule Nosh.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:saxaboom, "~> 0.1.1"},
+      {:saxaboom, "~> 0.2"},
       {:saxy, "~> 1.5"},
       {:timex, "~> 3.7"}
     ]

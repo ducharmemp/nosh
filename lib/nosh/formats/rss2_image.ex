@@ -3,10 +3,15 @@ defmodule Nosh.Formats.Rss2Image do
 
   document do
     element :description
-    element :height
+    element :width, cast: :integer
+    element :height, cast: :integer
     element :link
     element :title
-    element :url
-    element :width
+    element :url, as: :link
+
+    attribute :width, cast: :integer
+    attribute :height, cast: :integer
+    attribute :href, as: :link
+    attribute :url, as: :link
   end
 end

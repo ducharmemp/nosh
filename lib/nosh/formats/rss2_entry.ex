@@ -1,4 +1,5 @@
 defmodule Nosh.Formats.Rss2Entry do
+  alias Nosh.Formats.Rss2Image
   use Saxaboom.Mapper
 
   document do
@@ -33,13 +34,12 @@ defmodule Nosh.Formats.Rss2Entry do
     element :"dcterms:modified", as: :updated, cast: &Nosh.Casting.parse_rfc_822/1
     element :"a10:updated", as: :updated, cast: &Nosh.Casting.parse_rfc_822/1
 
-    # element :guid, as: :entry_id, class: Feedjira::Parser::GloballyUniqueIdentifier
     element :"dc:identifier", as: :dc_identifier
 
-    element :"media:thumbnail", as: :image, value: :url
-    element :"media:content", as: :image, value: :url
-    element :enclosure, as: :image, value: :url
-    element :"itunes:image", value: :href, as: :image
+    element :"media:thumbnail", as: :image, into: %Rss2Image{}
+    element :"media:content", as: :image, into: %Rss2Image{}
+    element :enclosure, as: :image, into: %Rss2Image{}
+    element :"itunes:image", as: :image, into: %Rss2Image{}
 
     element :comments
 
