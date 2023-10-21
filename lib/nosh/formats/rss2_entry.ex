@@ -1,14 +1,16 @@
 defmodule Nosh.Formats.Rss2Entry do
-  alias Nosh.Formats.Rss2Image
   use Saxaboom.Mapper
 
+  alias Nosh.StringBuffer
+  alias Nosh.Formats.Rss2Image
+
   document do
-    element :title
-    element :"itunes:subtitle", as: :subtitle
+    element :title, into: %StringBuffer{}, cast: &StringBuffer.stringify/1
+    element :"itunes:subtitle", as: :subtitle, into: %StringBuffer{}, cast: &StringBuffer.stringify/1
 
     element :ttl
 
-    element :description, as: :summary
+    element :description, as: :summary, into: %StringBuffer{}, cast: &StringBuffer.stringify/1
     element :language
     element :lastBuildDate, as: :last_built, cast: &Nosh.Casting.parse_rfc_822/1
 

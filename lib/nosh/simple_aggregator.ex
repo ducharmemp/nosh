@@ -18,8 +18,6 @@ defmodule Nosh.SimpleAggregator do
     def cast_characters(collectable, element, characters),
       do: %{collectable | name: element.name, children: collectable.children ++ [characters]}
 
-    @spec cast_nested(%@for{}, atom | %{:name => any, optional(any) => any}, any) ::
-            %{:children => [...], :name => any, optional(any) => any}
     def cast_nested(collectable, element, nested),
       do: %{collectable | name: element.name, children: collectable.children ++ [nested]}
   end

@@ -13,6 +13,7 @@ defmodule Nosh.Formats.Rss2 do
     element :link, as: :url
     element :"a10:link", as: :url, value: :href
     element :ttl
+    element :"atom:link", as: :feed_url, value: :href, with: [rel: "self"]
     elements :"atom:link", as: :hubs, value: :href, with: [rel: "hub"]
 
     elements :item, as: :entries, into: %Rss2Entry{}

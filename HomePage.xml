@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Top Stories</title>
+    <link>https://www.nytimes.com</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 The New York Times Company</copyright>
+    <lastBuildDate>Sat, 21 Oct 2023 20:10:43 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Oct 2023 19:59:04 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Top Stories</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com</link>
+    </image>
+    <item>
+      <title>What Voters Think About U.S. Support for the Wars in Israel and Ukraine</title>
+      <link>https://www.nytimes.com/2023/10/21/us/united-states-israel-ukraine-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/21/us/united-states-israel-ukraine-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/21/us/united-states-israel-ukraine-war.html" rel="standout"></atom:link>
+      <description>Interviews with voters in key states show that while there is support for Israel and Ukraine, many are torn about how much the U.S. can or should be involved.</description>
+      <dc:creator>Shawn Hubler, Christian Boone, Dan Simmons, Nicholas Bogel-Burroughs and Jack Healy</dc:creator>
+      <pubDate>Sat, 21 Oct 2023 19:19:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinian-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlanta (Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bucks County (Pa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Milwaukee (Wis)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philadelphia (Pa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Phoenix (Ariz)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/21/multimedia/21NAT-VOICES-01-fbjh/21NAT-VOICES-01-fbjh-moth.jpg" width="151"></media:content>
+      <media:credit>Kirsten Luce for The New York Times</media:credit>
+      <media:description>Police officers created a barrier between supporters of Israel and supporters of Palestinians at a protest in New York. </media:description>
+    </item>
+    <item>
+      <title>Jewish and Muslim Interfaith Communities Are Tested by the Israel-Hamas War</title>
+      <link>https://www.nytimes.com/2023/10/21/us/jewish-muslim-communities-israel-hamas-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/21/us/jewish-muslim-communities-israel-hamas-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/21/us/jewish-muslim-communities-israel-hamas-war.html" rel="standout"></atom:link>
+      <description>A Los Angeles program that connects Muslims and Jews has been strained by the war in Israel. But the group’s leaders found that it has strengthened their bond.</description>
+      <dc:creator>Kurt Streeter</dc:creator>
+      <pubDate>Sat, 21 Oct 2023 13:34:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aziza Hasan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andrea Hodos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/22/multimedia/22nat-interfaith-01-wmtc/22nat-interfaith-01-wmtc-moth.jpg" width="151"></media:content>
+      <media:credit>Mark Abramson for The New York Times</media:credit>
+      <media:description>Aziza Hasan, right, whose family roots run through Palestine, runs NewGround. Andrea Hodos, once a resident of Israel, has been her associate director since 2020.</media:description>
+    </item>
+    <item>
+      <title>After Jordan Falls, House Republicans Ask Who, and What, Is Next</title>
+      <link>https://www.nytimes.com/2023/10/21/us/politics/house-speaker-republicans-whats-next.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/21/us/politics/house-speaker-republicans-whats-next.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/21/us/politics/house-speaker-republicans-whats-next.html" rel="standout"></atom:link>
+      <description>A band of more mainstream Republicans brought down the hard-line conservative, but the G.O.P. has hardly stemmed the chaos.</description>
+      <dc:creator>Carl Hulse</dc:creator>
+      <pubDate>Sat, 21 Oct 2023 09:02:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jordan, Jim (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCarthy, Kevin (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scalise, Steve</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/21/multimedia/21dc-repubs-01-gkwm/21dc-repubs-01-gkwm-moth.jpg" width="151"></media:content>
+      <media:credit>Haiyun Jiang for The New York Times</media:credit>
+      <media:description>Many Republicans who voted against Representative Jim Jordan, Republican of Ohio, saw him as a disrupter who had engineered past government shutdowns and represented the possibility of more ahead. </media:description>
+    </item>
+    <item>
+      <title>Chaos and Frustration Rule as Republicans’ Bitter Speaker Fight Deepens</title>
+      <link>https://www.nytimes.com/2023/10/20/us/politics/republicans-house-speaker.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/20/us/politics/republicans-house-speaker.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/20/us/politics/republicans-house-speaker.html" rel="standout"></atom:link>
+      <description>With the House G.O.P. back to square one on electing a new speaker, tempers flared and uncertainty over how the impasse might be resolved only grew.</description>
+      <dc:creator>Kayla Guo and Robert Jimison</dc:creator>
+      <pubDate>Sat, 21 Oct 2023 02:27:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jordan, Jim (1964- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/20/multimedia/20dc-scene-01-wmzj/20dc-scene-01-wmzj-moth.jpg" width="151"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>A group of 25 mainstream Republicans stood in opposition to Representative Jim Jordan’s speaker bid.</media:description>
+    </item>
+    <item>
+      <title>From Bush v. Gore to ‘Stop the Steal’: Kenneth Chesebro’s Long, Strange Trip</title>
+      <link>https://www.nytimes.com/2023/10/21/us/politics/chesebro-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/21/us/politics/chesebro-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/21/us/politics/chesebro-trump.html" rel="standout"></atom:link>
+      <description>Mr. Chesebro, a buttoned-down Harvard lawyer, evolved from left-leaning jurist to key player in the Trump false electors scandal. What happened?</description>
+      <dc:creator>Elizabeth Williamson</dc:creator>
+      <pubDate>Sat, 21 Oct 2023 13:14:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Georgia Criminal Case Against Trump (2020 Election)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvard Law School</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chesebro, Kenneth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tribe, Laurence H</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/21/multimedia/21dc-chesebro-01-gkjm/21dc-chesebro-01-gkjm-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Alyssa Pointer</media:credit>
+      <media:description>Kenneth Chesebro pleaded guilty on Friday to a single felony charge of conspiracy. He had been charged with seven felonies, including one charge under Georgia’s state racketeering law.</media:description>
+    </item>
+    <item>
+      <title>Kenneth Chesebro’s Plea Deal in Georgia Could Increase Peril for Trump</title>
+      <link>https://www.nytimes.com/2023/10/20/us/politics/chesebro-plea-deal-georgia-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/20/us/politics/chesebro-plea-deal-georgia-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/20/us/politics/chesebro-plea-deal-georgia-trump.html" rel="standout"></atom:link>
+      <description>The lawyer Kenneth Chesebro pleaded guilty in the Georgia election tampering case and is an unindicted co-conspirator in the federal election case.</description>
+      <dc:creator>Alan Feuer and Maggie Haberman</dc:creator>
+      <pubDate>Fri, 20 Oct 2023 23:08:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Georgia Criminal Case Against Trump (2020 Election)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Criminal Case Against Trump (2020 Election Case)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chesebro, Kenneth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Willis, Fani T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Jack (Attorney)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Powell, Sidney (Attorney)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/20/multimedia/20dc-trump-chesebro-mbfq/20dc-trump-chesebro-mbfq-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Alyssa Pointer</media:credit>
+      <media:description>Kenneth Chesebro pleaded guilty to a single felony count of conspiring to file false documents in Georgia.</media:description>
+    </item>
+    <item>
+      <title>‘Oppenheimer,’ ‘The Maniac’ and Our Terrifying Prometheus Moment</title>
+      <link>https://www.nytimes.com/2023/10/21/books/review/robert-oppenheimer-john-von-neumann-prometheus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/21/books/review/robert-oppenheimer-john-von-neumann-prometheus.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/21/books/review/robert-oppenheimer-john-von-neumann-prometheus.html" rel="standout"></atom:link>
+      <description>How an ancient Greek myth explains our terrifying modern reality.</description>
+      <dc:creator>A.O. Scott</dc:creator>
+      <pubDate>Sat, 21 Oct 2023 09:00:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Manhattan Project</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Institute for Advanced Study</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Labatut, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nolan, Christopher</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shelley, Mary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shelley, Percy Bysshe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von Neumann, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bird, Kai</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sherwin, Martin J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">American Prometheus (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Oppenheimer (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Maniac (Book)</category>
+      <category domain=""></category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oppenheimer, J Robert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dorsen, Annie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Prometheus Firebringer (Play)</category>
+    </item>
+    <item>
+      <title>Ukraine, a Sniper Mission and the Myth of the ‘Good Kill’</title>
+      <link>https://www.nytimes.com/2023/10/21/world/europe/ukraine-russia-war-snipers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/21/world/europe/ukraine-russia-war-snipers.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/21/world/europe/ukraine-russia-war-snipers.html" rel="standout"></atom:link>
+      <description>A New York Times reporter who is a former Marine has a conversation with a Ukrainian sniper about morality in war.</description>
+      <dc:creator>Thomas Gibbons-Neff</dc:creator>
+      <pubDate>Sat, 21 Oct 2023 09:02:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/22/multimedia/22ukraine-sniper-dispatch-01new-hvpz/22ukraine-sniper-dispatch-01new-hvpz-moth.jpg" width="151"></media:content>
+      <media:credit>David Guttenfelder for The New York Times</media:credit>
+      <media:description>Ukrainian snipers overlooking a Russian position in southern Ukraine. </media:description>
+    </item>
+    <item>
+      <title>New Evidence Found of Rape and Torture by Russian Forces in Ukraine</title>
+      <link>https://www.nytimes.com/2023/10/21/world/europe/russia-war-crimes-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/21/world/europe/russia-war-crimes-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/21/world/europe/russia-war-crimes-ukraine.html" rel="standout"></atom:link>
+      <description>A U.N. report documented cases in the southern regions of Kherson and Zaporizhzhia, which remain partly under Moscow’s control.</description>
+      <dc:creator>Constant Méheut</dc:creator>
+      <pubDate>Sat, 21 Oct 2023 17:08:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/21/multimedia/21ukraine-crimes-mgqh/21ukraine-crimes-mgqh-moth.jpg" width="151"></media:content>
+      <media:credit>Ivor Prickett for The New York Times</media:credit>
+      <media:description>A cell at a prison in Kherson, Ukraine, where Russian forces held and tortured captives.</media:description>
+    </item>
+    <item>
+      <title>How Do You Charge a Friend for a Professional Favor?</title>
+      <link>https://www.nytimes.com/2023/10/21/business/friends-favors-money.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/21/business/friends-favors-money.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/21/business/friends-favors-money.html" rel="standout"></atom:link>
+      <description>Despite the adage that friends and money don’t mix, the arrangement can have unique benefits — as long as the boundaries are clear.</description>
+      <dc:creator>Sara Murphy</dc:creator>
+      <pubDate>Sat, 21 Oct 2023 09:02:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Friendship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs, Etiquette and Manners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/19/business/00friends-favor-03/00friends-favor-03-moth.jpg" width="151"></media:content>
+      <media:credit>James Albon</media:credit>
+    </item>
+    <item>
+      <title>Bobby Charlton, an England Soccer World Cup and Manchester United Icon, Dies at 86</title>
+      <link>https://www.nytimes.com/2023/10/21/sports/soccer/bobby-charlton-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/21/sports/soccer/bobby-charlton-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/21/sports/soccer/bobby-charlton-dead.html" rel="standout"></atom:link>
+      <description>A mainstay of Manchester United and one of the game’s best-loved figures, he won the World Cup in 1966 and the European Cup in 1968.</description>
+      <dc:creator>Mark A. Walsh</dc:creator>
+      <pubDate>Sat, 21 Oct 2023 18:12:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charlton, Bobby (1937-2023)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Manchester United (Soccer Team)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2016/05/10/sports/charlton-obit-1/charlton-obit-1-moth.jpg" width="151"></media:content>
+      <media:credit>Popperfoto/Getty Images</media:credit>
+      <media:description>Bobby Charlton of Manchester United attempting a shot against Wolverhampton Wanderers around 1972.</media:description>
+    </item>
+    <item>
+      <title>How Rich Donors and Loose Rules Are Transforming College Sports</title>
+      <link>https://www.nytimes.com/2023/10/21/us/college-athletes-donor-collectives.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/21/us/college-athletes-donor-collectives.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/21/us/college-athletes-donor-collectives.html" rel="standout"></atom:link>
+      <description>A shift that allows booster groups to employ student-athletes has upended the economics of college football and other sports while giving many donors a tax break.</description>
+      <dc:creator>David A. Fahrenthold and Billy Witz</dc:creator>
+      <pubDate>Sat, 21 Oct 2023 09:01:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Student Athlete Compensation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football (College)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">College Athletics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nonprofit Organizations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Collegiate Athletic Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Internal Revenue Service</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/18/us/politics/00dc-collectives-illo-sub/00dc-collectives-illo-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Photo illustration by Max-o-matic; Photo by Grant Halverson/Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Chapter 1: To Take Control, She Had to Run</title>
+      <link>https://www.nytimes.com/2023/10/21/world/asia/indias-daughters-women-careers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/21/world/asia/indias-daughters-women-careers.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/21/world/asia/indias-daughters-women-careers.html" rel="standout"></atom:link>
+      <description>This is the first part of a series by The Interpreter that examines how, for two young women, chasing opportunity in India has been a fight for their lives.</description>
+      <dc:creator>Amanda Taub, Emily Schmall, Shalini Venugopal Bhagat and Andrea Bruce</dc:creator>
+      <pubDate>Sat, 21 Oct 2023 09:00:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Equal Educational Opportunities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weddings and Engagements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Violence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marriages</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/04/03/multimedia/00indias-daughters-01-kmjb/00indias-daughters-01-kmjb-moth.jpg" width="151"></media:content>
+      <media:description>Nasreen Parveen, 20.</media:description>
+    </item>
+    <item>
+      <title>The Weekender</title>
+      <link>https://www.nytimes.com/2023/10/20/nyregion/the-weekender.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/20/nyregion/the-weekender.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/20/nyregion/the-weekender.html" rel="standout"></atom:link>
+      <description>The five cloned dogs in Argentina’s election. Also: an interview with Jada Pinkett Smith and  “The Exorcist” at 50.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Fri, 20 Oct 2023 17:31:50 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/21/multimedia/21weekender-grid-top/21weekender-grid-top-moth.jpg" width="151"></media:content>
+      <media:credit>Amir Hamja/The New York Times, Erik Carter for The New York Times, The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Elderly and Imprisoned: ‘I Don’t Count It as Living, Only Existing.’</title>
+      <link>https://www.nytimes.com/2023/10/21/opinion/aging-prison.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/21/opinion/aging-prison.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/21/opinion/aging-prison.html" rel="standout"></atom:link>
+      <description>Decades of tough-on-crime sentencing and increasingly rigid release policies have left many to grow old in a system that was not designed to accommodate them.</description>
+      <dc:creator>Joseph Rodriguez and Carmilla Floyd</dc:creator>
+      <pubDate>Sat, 21 Oct 2023 11:04:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amnesties, Commutations and Pardons</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/08/06/opinion/00Exposures-Rodriguez-Flo-slide-60I8/00Exposures-Rodriguez-Flo-slide-60I8-moth.jpg" width="151"></media:content>
+      <media:description>The C Yard at the California Institution for Men state prison in Chino.</media:description>
+    </item>
+    <item>
+      <title>In the Israel-Gaza War, We Must Not Kill Some Children to Protect Others</title>
+      <link>https://www.nytimes.com/2023/10/21/opinion/israel-gaza-palestine-children.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/21/opinion/israel-gaza-palestine-children.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/21/opinion/israel-gaza-palestine-children.html" rel="standout"></atom:link>
+      <description>If all lives have equal value, why do we treat Palestinian civilians as lesser victims, devalued by association with Hamas terrorism?</description>
+      <dc:creator>Nicholas Kristof</dc:creator>
+      <pubDate>Sat, 21 Oct 2023 14:13:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tel Aviv (Israel)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/21/multimedia/21kristof-1-gmlc/21kristof-1-gmlc-moth.jpg" width="151"></media:content>
+      <media:credit>Samar Abu Elouf for The New York Times</media:credit>
+      <media:description>In Gaza, children inspect damage from an Israeli bomb.</media:description>
+    </item>
+    <item>
+      <title>I Negotiated Israel’s Hardest Hostage Deal. Here’s What’s Next in Gaza.</title>
+      <link>https://www.nytimes.com/2023/10/21/opinion/israel-hamas-hostage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/21/opinion/israel-hamas-hostage.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/21/opinion/israel-hamas-hostage.html" rel="standout"></atom:link>
+      <description>I have been in touch with leaders of both sides. Prospects remain dim.</description>
+      <dc:creator>Gershon Baskin</dc:creator>
+      <pubDate>Sat, 21 Oct 2023 17:18:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/21/multimedia/21baskin-wqpc/21baskin-wqpc-moth.jpg" width="151"></media:content>
+      <media:credit>Martin Divisek/EPA, via Shutterstock</media:credit>
+    </item>
+    <item>
+      <title>The Path to Reducing Pedestrian Deaths Is Steep but Straight</title>
+      <link>https://www.nytimes.com/2023/10/21/opinion/pedestrians-cars-trucks-suvs-death.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/21/opinion/pedestrians-cars-trucks-suvs-death.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/21/opinion/pedestrians-cars-trucks-suvs-death.html" rel="standout"></atom:link>
+      <description>Who or what is to blame for this terrible increase?</description>
+      <dc:creator>Jamelle Bouie</dc:creator>
+      <pubDate>Sat, 21 Oct 2023 16:36:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Walking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sports Utility Vehicles and Light Trucks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/21/multimedia/21bouie-newsletter-gqkl/21bouie-newsletter-gqkl-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Desiree Rios for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Top 10 Hardest and Easiest Spelling Bee Words, Oct. 14-20</title>
+      <link>https://www.nytimes.com/2023/10/21/upshot/spelling-bee-words.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/21/upshot/spelling-bee-words.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/21/upshot/spelling-bee-words.html" rel="standout"></atom:link>
+      <description>A lot of players had nonanswers for this week’s toughest word.</description>
+      <dc:creator>Eve Washington, Josh Katz and Tom Giratikanon</dc:creator>
+      <pubDate>Sat, 21 Oct 2023 09:02:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spelling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/07/22/upshot/29up-bee-hardest/22up-bee-hardest-moth.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>David Suzuki Warned Canada About Mistreating Nature, but Says, ‘We’ve Failed’</title>
+      <link>https://www.nytimes.com/2023/10/20/world/canada/canada-environmentalism-david-suzuki.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/20/world/canada/canada-environmentalism-david-suzuki.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/20/world/canada/canada-environmentalism-david-suzuki.html" rel="standout"></atom:link>
+      <description>After cautioning about environmental damage on TV for decades, David Suzuki, 87, one of Canada’s most famous scientists, felt a sense of defeat as he watched forests burn and temperatures soar this summer.</description>
+      <dc:creator>Norimitsu Onishi</dc:creator>
+      <pubDate>Sat, 21 Oct 2023 03:21:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Suzuki, David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Nature of Things (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">British Columbia (Canada)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/20/multimedia/20canada-suzuki-profile-bkwc/20canada-suzuki-profile-bkwc-moth.jpg" width="151"></media:content>
+      <media:credit>Melissa Renwick for The New York Times</media:credit>
+      <media:description>David Suzuki, the science broadcaster, prolific author and perhaps Canada’s most prominent environmentalist, on Quadra Island, in British Columbia.</media:description>
+    </item>
+    <item>
+      <title>Hurricane Norma Makes Landfall in Baja California</title>
+      <link>https://www.nytimes.com/article/hurricane-norma-baja-california.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/hurricane-norma-baja-california.html</guid>
+      <atom:link href="https://www.nytimes.com/article/hurricane-norma-baja-california.html" rel="standout"></atom:link>
+      <description>The Category 1 storm landed on Saturday, unleashing heavy rain in western Mexico. It could cause flooding and mudslides in the region this weekend, forecasters said.</description>
+      <dc:creator>Christine Hauser, Isabella Kwai and Eduardo Medina</dc:creator>
+      <pubDate>Sat, 21 Oct 2023 19:59:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hurricane Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baja California (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cabo San Lucas (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/19/multimedia/19xp-bajacalifornia-qhpg/19xp-bajacalifornia-qhpg-moth.jpg" width="151"></media:content>
+      <media:credit>NOAA</media:credit>
+      <media:description>Hurricane Norma’s winds reached 85 miles per hour as it made landfall in southern Baja California Sur on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Peter Nygard Lured Women to His Office’s Bedroom, Witnesses Testified</title>
+      <link>https://www.nytimes.com/2023/10/21/world/canada/peter-nygard-sexual-assault-trial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/21/world/canada/peter-nygard-sexual-assault-trial.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/21/world/canada/peter-nygard-sexual-assault-trial.html" rel="standout"></atom:link>
+      <description>Five women accusing Peter Nygard of sexual assault completed their testimonies this week as prosecutors prepare to close their case in Toronto.</description>
+      <dc:creator>Vjosa Isai</dc:creator>
+      <pubDate>Sat, 21 Oct 2023 15:46:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Allred, Gloria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nygard, Peter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bacon, Louis Moore</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+    </item>
+    <item>
+      <title>How Much Influence Should Universities Give Their Donors?</title>
+      <link>https://www.nytimes.com/2023/10/21/business/dealbook/college-donors-israel-hamas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/21/business/dealbook/college-donors-israel-hamas.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/21/business/dealbook/college-donors-israel-hamas.html" rel="standout"></atom:link>
+      <description>After the Hamas terrorist attack on Israel, some major donors are aiming to shape the free-speech values and top leadership on campuses.</description>
+      <dc:creator>Lauren Hirsch and Sarah Kessler</dc:creator>
+      <pubDate>Sat, 21 Oct 2023 16:45:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvard University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wharton School of the University of Pennsylvania</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/21/business/21DB-DONORS/21DB-DONORS-moth.jpg" width="151"></media:content>
+      <media:credit>Kayana Szymczak for The New York Times</media:credit>
+      <media:description>Major donors have severed ties with Harvard, above, and the University of Pennsylvania.</media:description>
+    </item>
+    <item>
+      <title>Hedi Slimane Drops a Surprise Celine Show</title>
+      <link>https://www.nytimes.com/2023/10/20/style/hedi-slimane-celine-bibliotheque-nationale.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/10/20/style/hedi-slimane-celine-bibliotheque-nationale.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/10/20/style/hedi-slimane-celine-bibliotheque-nationale.html" rel="standout"></atom:link>
+      <description>It has been almost a year since his last women’s wear collection. Why? It’s an open book.</description>
+      <dc:creator>Vanessa Friedman</dc:creator>
+      <pubDate>Fri, 20 Oct 2023 17:07:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Celine (Fashion Label)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Slimane, Hedi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Library of France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-fashion</category>
+    </item>
+  </channel>
+</rss>
